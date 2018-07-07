@@ -1,3 +1,5 @@
 # Thiago
 
-Repositório teste
+Repositório teste. 
+
+Integrando com VSCode.
